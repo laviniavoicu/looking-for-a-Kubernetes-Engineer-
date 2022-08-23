@@ -11,7 +11,7 @@ Our client is a dynamic business providing IT support and services to external c
 
 ## What we are looking for
 
-We are looking for an _an experienced Kubernetes expert_ to be part of a new, exciting projectand to build open-source developer tooling in the cloud-native space.
+We are looking for an _an experienced Kubernetes expert_ to be part of a new, exciting project and to build open-source developer tooling in the cloud-native space.
 
 ## What you will do
 
