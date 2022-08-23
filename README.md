@@ -1,4 +1,3 @@
-# looking-for-a-Kubernetes-Engineer-
 We're looking for a
 
 # KUBERNETES/AZURE AKS ENGINEER (M/F)
